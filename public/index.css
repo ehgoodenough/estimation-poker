@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    padding: 2em;
+    font-size: 18px;
+    font-family: monospace;
+}
+
+body {
+    width: 50%;
+    margin: auto;
+    width: 320px;
+}
+
+h1 {
+    font-size: 10em;
+    text-align: center;
+    letter-spacing: -20px;
+}
+
+input, button {
+    font: inherit;
+    padding: 0.15em;
+    margin-bottom: 1em;
+    width: 100%;
+    
+}
+
+label {
+    display: block;
+}
+
+hr {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 2px dashed black;
+}
